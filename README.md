@@ -1,1 +1,3 @@
 # Safe-Lang
+
+Simple language
